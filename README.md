@@ -6,9 +6,9 @@
 ## Frontend Developer | First, solve the problem. Then, write the code.
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!  👯 I’m looking to collaborate with other content creators -->
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love watching movies and playing FIFA
+- 🌱 I’m focusing on creating dynamic user experiences that ensure maximum accessibility and usability using modern web technologies
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I enjoy listening to music, watching movies and gaming
 
 ### Connect with me:
 
