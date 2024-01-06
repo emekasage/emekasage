@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=emekasage.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://emekaikele.netlify.app/)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## Frontend Developer | First, solve the problem. Then, write the code.
+## Frontend Engineer | First, solve the problem. Then, write the code.
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!  👯 I’m looking to collaborate with other content creators -->
 - 🌱 I’m focusing on creating dynamic user experiences that ensure maximum accessibility and usability using modern web technologies
