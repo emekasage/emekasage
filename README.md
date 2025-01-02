@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!  👯 I’m looking to collaborate with other content creators -->
 - 🌱 I’m focusing on creating dynamic user experiences that ensure maximum accessibility and usability using modern web technologies
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy listening to music, watching movies and gaming
 
 ### Connect with me:
